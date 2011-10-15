@@ -1,0 +1,11 @@
+{
+	  "name": "clay"
+	, "version": "0.1.0"
+	, "description": "the angry mason builds restful stubs and scaffolds using nodejs and mongodb; speaks coffeescript"
+	, "dependencies":
+		{ "express": "*"
+		, "mongoose": "*"
+		}
+	, "private": "true"
+}
+
